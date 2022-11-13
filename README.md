@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Echo0117/Echo0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heyyyy I'm Echo, it's really nice to meet you~
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Artificial Intelligence. Superrrr interested in NLP and recommender system~
+- 🌱 I’m currently studying in University Paris Saclay.
+- 💬 Ask me about whatever you want~
+- 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&emsp;&emsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diyun-lu-753128172/)  &emsp;&emsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/echo_ludiyun/)
+&emsp;&emsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([ludiyun@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNrdZHCdsTdNHwDBDPjXHSNdWRqtnmrrnXkDTRtSrzqDLTwcJtGqDBCpwvHwgLZDWBhgcg))
+
+&emsp;&emsp;中文可以 [知乎](https://www.zhihu.com/people/echo-95-67-73) 找我～
+
+- ⚡ Fun fact: I love the world and you :)
